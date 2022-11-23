@@ -1,0 +1,4 @@
+3
+( \neg ( \disj ( \biImplic ( \neg T ) ) ( \neg T ) ) )
+( \disj ( \neg T ) ( \neg F ) )
+( T \neg F \disj )
